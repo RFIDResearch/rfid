@@ -202,3 +202,7 @@ It has been extended with functionality to alter sector 0 on Chinese UID changea
 .. _iso/iec 14443-3\:2011 part 3: 
 .. _nxp mfrc522: http://www.nxp.com/documents/data_sheet/MFRC522.pdf
 .. _broken: http://eprint.iacr.org/2008/166
+
+Note: AWH
+===========
+will add irq later!
